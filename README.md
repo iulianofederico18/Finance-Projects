@@ -12,8 +12,8 @@ The goal of this project  was to estimate the intrinsic value of Besi N.V. throu
 - The assumptions made are explained in the model
 
 ## Results
-- **Fair Value (DCF estimate): ~€70/share**  
-- **Market Price at the time of analysis: ~€110/share**  
+- **Fair Value (DCF estimate): ~€130/share**  
+- **Market Price at the time of analysis: ~€140/share**  
 - The discrepancy can be explained by:  
   - Conservative assumptions on long-term growth and margins in the model.  
   - A relatively higher discount rate compared to some sell-side reports.  
